@@ -6,6 +6,7 @@
 - Corrine Chen
 - Alisanne Sarah Choi
 - Dayoung In
+- Alexander White
 - Jaden Wu
 
 ## Project Overview
