@@ -2,7 +2,6 @@
 
 ## Team (ds-52) Members
 
-- Edison Ayran
 - Corrine Chen
 - Alisanne Sarah Choi
 - Dayoung In
